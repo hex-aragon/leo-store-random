@@ -1,0 +1,1 @@
+leo run add_item 1u8 10u64 100u64

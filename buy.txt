@@ -1,0 +1,30 @@
+      Leo ✅ Compiled 'main.leo' into Aleo instructions
+
+⛓  Constraints
+
+ •  'store_264517678.aleo/buy' - 4,107 constraints (called 1 time)
+
+➡️  Outputs
+
+ • {
+  owner: aleo1c34mylur2t09x7h5nnrkz27n9c5uywvuyhf80y3hur7fqyrj0sys46e3ck.private,
+  amount: 9950u64.private,
+  _nonce: 661724777934709181893384253926216588846365332491385584885736215316827220089group.public
+}
+ • {
+  owner: aleo1c34mylur2t09x7h5nnrkz27n9c5uywvuyhf80y3hur7fqyrj0sys46e3ck.private,
+  item: 1u8.private,
+  quantity: 5u64.private,
+  _nonce: 1848152067735625650778892678930683036289835120112515933123435618407780948894group.public
+}
+ • {
+  program_id: store_264517678.aleo,
+  function_name: buy,
+  arguments: [
+    1u8,
+    5u64,
+    50u64
+  ]
+}
+
+       Leo ✅ Finished 'store_264517678.aleo/buy' (in "/home/robert/work/aleo/store_264517678/build")
